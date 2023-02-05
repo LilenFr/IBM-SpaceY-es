@@ -4,10 +4,7 @@ Proyecto final de ciencia de datos para aplicar los conocimientos adquiridos dur
 
 <img src='https://images.unsplash.com/photo-1517976487492-5750f3195933?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'>
 
----
-
 ## <center>Descripción:</center>
-
 
 Para esta tarea, asumí el papel de un científico de datos que trabaja para una nueva 
 compañía de cohetes: <strong><font color="#088880">Space Y.</font></strong>
@@ -17,8 +14,6 @@ es el factor que posibilita que los lanzamientos de cohetes sean relativamente e
 esta empresa</strong>.
 
 En lugar de usar ciencia espacial para predecir esto, entrené y refiné modelos de machine learning con información pública de la competencia que previamente recopilé y procesé.
-
----
 
 ## <center>Un poco de contexto...</center>
 
@@ -30,8 +25,6 @@ si la primera etapa aterrizará con éxito, y por ende será reutilizada, puedo
 determinar el costo de un lanzamiento.</strong> <font color="#FFD580">Esta información es útil si una 
 empresa alternativa quiere hacer una oferta contra <strong>Space X</strong> para el 
 lanzamiento de un cohete, como es el caso de <strong>Space Y</strong></font>.
-
----
 
 ## <center>Estructura del proyecto</center>
 
@@ -53,8 +46,6 @@ lanzamiento de un cohete, como es el caso de <strong>Space Y</strong></font>.
 + datasets: Carpeta encargada de almacenar los distintos datasets utilizados y producidos por de los cuadernos jupyter.
 + requirements.txt: Contiene las dependencias necesarias para el correcto desarrollo de los cuadernos.
 
----
-
 ## <center>Ver proyecto / correr cuadernos</center>
 
 + Por cuestiones de renderizado, se recomienda ver el proyecto con <strong>nbviewer</strong> a través del siguiente <a href='https://nbviewer.org/github/LilenFr/IBM-SpaceY-es/tree/master/'>link.</a>
@@ -68,13 +59,11 @@ lanzamiento de un cohete, como es el caso de <strong>Space Y</strong></font>.
     # Correr JupyterLab
     jupyter-lab
     ```
-
----
-
+    
 ## <center>Menciones especiales</center>
 
 Agradecer a <a href='https://www.coursera.org/instructor/yanluo'>Yan Luo</a> y a <a href='https://www.coursera.org/instructor/~28511493'>Joseph Santarcangelo</a>, tutores principales del <a href='https://www.coursera.org/learn/applied-data-science-capstone/home/week/1'>curso final</a> del programa de <a href='https://www.coursera.org/professional-certificates/ibm-data-science'>ciencia de datos de IBM</a>, que me acompañó durante el desarrollo de este proyecto.
 
 ---
 
-## <center>¡Saludos!</center> <font size=10><center>🙋🏻</center></font>
+<strong>¡Saludos! 🙋🏻</strong>
