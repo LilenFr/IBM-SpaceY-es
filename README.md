@@ -43,8 +43,8 @@ lanzamiento de un cohete, como es el caso de <strong>Space Y</strong></font>.
     * <a href='https://github.com/LilenFr/IBM-SpaceY-es/blob/master/4-cuarta_semana/8-analisis_pred_ML.ipynb'>8-analisis_pred_ML.ipynb</a>: Ajuste de cuatro modelos de clasificación con GridSearchCV.
 + <a href='https://github.com/LilenFr/IBM-SpaceY-es/tree/master/5-quinta_semana'>5-quinta_semana</a>: Presentación del proyecto.
     * <a href='https://github.com/LilenFr/IBM-SpaceY-es/blob/master/5-quinta_semana/presentacion.pdf'>presentacion.pdf</a>: Presentación hecha en Power Point exportada como pdf.
-+ datasets: Carpeta encargada de almacenar los distintos datasets utilizados y producidos por de los cuadernos jupyter.
-+ requirements.txt: Contiene las dependencias necesarias para el correcto desarrollo de los cuadernos.
++ <a href='https://github.com/LilenFr/IBM-SpaceY-es/tree/master/datasets'>datasets</a>: Carpeta encargada de almacenar los distintos datasets utilizados y producidos por de los cuadernos jupyter.
++ <a href='https://github.com/LilenFr/IBM-SpaceY-es/blob/master/requirements.txt'>requirements.txt</a>: Contiene las dependencias necesarias para el correcto desarrollo de los cuadernos.
 
 ## <center>Ver proyecto / correr cuadernos</center>
 
